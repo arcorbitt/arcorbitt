@@ -2,7 +2,7 @@
 - 👀 I’m interested in environmental studies
 - 🌱 I’m currently learning GIS
 - 💞️ I’m looking to collaborate on WebGIS
-- 📫 How to reach me email
+- 📫 How to reach me arcorbitt@tamu.edu
 - ⚡ Fun fact: Returning to college after 20 years
 
 <!---
